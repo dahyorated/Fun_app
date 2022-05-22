@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Fun_app": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7186",
+      "launchBrowser": false
+    }
+  }
+}
